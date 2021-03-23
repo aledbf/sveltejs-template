@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full:latest
+FROM gitpod/workspace-full:branch-aledbf-slirp4netns
 
 RUN sudo install-packages strace
 
