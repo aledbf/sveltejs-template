@@ -1,4 +1,4 @@
-FROM eu.gcr.io/gitpod-core-dev/dev/dev-environment:aledbf-workspacego.8
+FROM gitpod/workspace-base:branch-aledbf-precommit
 
 RUN sudo install-packages strace
 
