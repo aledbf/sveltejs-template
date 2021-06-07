@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full:branch-aledbf-slirp4netns
+FROM eu.gcr.io/gitpod-core-dev/dev/dev-environment:aledbf-workspacego.8
 
 RUN sudo install-packages strace
 
