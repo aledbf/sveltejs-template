@@ -1,5 +1,5 @@
 # 07062021-02
-FROM aledbf/workspace-full:precommit
+FROM aledbf/workspace-full:precommit0
 
 RUN sudo install-packages strace
 
