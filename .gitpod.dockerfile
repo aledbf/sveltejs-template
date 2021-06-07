@@ -1,5 +1,5 @@
 # 07062021-02
-FROM gitpod/workspace-base:branch-aledbf-precommit
+FROM gitpod/workspace-full:branch-aledbf-precommit
 
 RUN sudo install-packages strace
 
