@@ -1,5 +1,5 @@
 # 07062021-02
-FROM aledbf/workspace-full:precommit0
+FROM eu.gcr.io/gitpod-core-dev/dev/dev-environment:aledbf-workspacego.12
 
 RUN sudo install-packages strace
 
